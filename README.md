@@ -26,7 +26,7 @@ The problem setting is unnecessary identical to the actual operation scheme. We 
 | Revenue                 | The expected payment from the user over the specified trip with electric-scooter. |                                                              |
 | Cost                    | The expected expense of the rebalance service over a specific region, mainly including the manpower and transportation of the e-scooters. | Ground operators are paid by shift hours. Assume 30 USD per hour. |
 
-![img](https://neuronmobility.atlassian.net/fd9a7453-aab3-451a-8963-6cc12d3eb6b1#media-blob-url=true&id=3f4f7f54-b9df-48fa-9d0a-93662a74ee3e&collection=contentId-1884192769&contextId=1884192769&height=5923&width=10211&alt=)
+![img](https://github.com/Neuron-Hackathon/neuron_hackathon_2022/blob/main/images/388dd140-aed4-49c2-ac1d-50cce9043efd.png?raw=true)
 
 Figure 1: Slicing Example Service Area in Singapore into Grids (Note: this is NOT the service area for input data)
 
