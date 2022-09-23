@@ -2,7 +2,7 @@
 
 These are the Rules for the Neuron Global Hackathon 2022 (the “Hackathon”):
 
-- This is a team participation Hackathon. You can have at most three members in your team.
+- This is a team participation Hackathon. You can have at most four members in your team.
 - The Hackathon will start on 15 October 2022 and end on 29 October 2022 (GMT+8).
 - There are two phases in the Hackathon. The first phase starts on 15 October 2022 and ends on 21 October 2022. The second phase starts on 22 October 2022 and ends on 29 October 2022. All times and dates are in GMT+8 time.
 - This is an online hackathon, so you can participate from anywhere.
