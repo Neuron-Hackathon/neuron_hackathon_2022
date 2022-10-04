@@ -6,7 +6,7 @@ These are the Rules for the Neuron Global Hackathon 2022 (the “Hackathon”):
 - The Hackathon will start on 15 October 2022 and end on 29 October 2022 (GMT+8).
 - There are two phases in the Hackathon. The first phase starts on 15 October 2022 and ends on 21 October 2022. The second phase starts on 22 October 2022 and ends on 29 October 2022. All times and dates are in GMT+8 time.
 - This is an online hackathon, so you can participate from anywhere.
-- All participants must be a full-time or part-time student from a post-secondary institution in Singapore, Australia, Canada or the United Kingdom. Participants will be asked to verify their enrolment at a post-secondary institution on registration.
+- All participants must be a full-time or part-time student from a post-secondary institution in Singapore, Australia, Canada, New Zealand or the United Kingdom. Participants will be asked to verify their enrolment at a post-secondary institution on registration.
 - The submissions in the first phase of the Hackathon will be automatically evaluated by the system.
 - In the first phase, teams will have an option to submit as many hacks as they want. However, each team can only submit one hack per hour. The system will record the best score of the submissions from each team. 
 - At the end of the first phase, the teams will be ranked in descending order of the best score from each team.
@@ -15,7 +15,6 @@ These are the Rules for the Neuron Global Hackathon 2022 (the “Hackathon”):
 - Each report will be in the form of presentation slides, consisting of at most 10 pages. The report is expected to cover the design of the solution, the data processing and the final results of the solution. 
 - Each report will be assessed by six judges. Three of these judges will be from Neuron and three will be university professors.
 - The final rank of the teams is based on the average score from the judges.
-- 
 - Your hack must be developed entirely during the Hackathon duration. You may use materials provided in the Resource center, open source libraries and other freely available systems and services, such as Open Street Map.
 
 
@@ -32,7 +31,7 @@ The Hackathon will be held from 15 October 2022 to 29 October 2022 (GMT+8). The 
 
 ## 1.0 Eligibility
 
-1.1 The Hackathon is open to all individuals over the age of 18, who are full-time or part-time students attending a post-secondary institution in Singapore, Australia, Canada or the United Kingdom. Despite the foregoing, Participants cannot be an employee, casual worker, consultant, contractor or intern of Neuron, or their immediate family.
+1.1 The Hackathon is open to all individuals over the age of 18, who are full-time or part-time students attending a post-secondary institution in Singapore, Australia, Canada, New Zealand or the United Kingdom. Despite the foregoing, Participants cannot be an employee, casual worker, consultant, contractor or intern of Neuron, or their immediate family.
 
 1.2 In order to participate in the Hackathon, all Participants must register on Neuron’s web site before 15 October 2022. Participants must provide any applicable personal or team information to complete registration. As part of this registration process, Participants will be asked to verify their enrolment at a post-secondary institution.
 
@@ -44,7 +43,7 @@ The Hackathon will be held from 15 October 2022 to 29 October 2022 (GMT+8). The 
 
 1.6 Neuron shall not be responsible for any late or inaccurate submissions, or any delay in registration submissions.
 
-1.7 Neuron reserves the right, in its sole and absolute discretion, to reject or refuse any Participant even after registration has been submitted or to disqualify any team.
+1.7 Neuron reserves the right, in its sole and absolute discretion, to reject or refuse any Participant, even after registration has been submitted, or to disqualify any team.
 
 1.8 There is no entry fee to enter the Hackathon.
 
@@ -60,9 +59,7 @@ The Hackathon will be held from 15 October 2022 to 29 October 2022 (GMT+8). The 
 
 2.1.3 3rd prize: Up to ten teams will be awarded Singapore dollars 500
 
-2.1.4 Honorable prize: Honorable mentions will receive Neuron Hackathon     
-
-T-shirts for each team member
+2.1.4 Honorable prize: Honorable mentions will receive Neuron Hackathon T-shirts for each team member
 
 2.2 Neuron shall determine the winners in its sole discretion.
 
@@ -74,8 +71,8 @@ T-shirts for each team member
 
 2.6 Neuron reserves the right at any time to verify the validity of a Participant’s entry and their details (including their identity, age and place of residence) if they win the Hackathon. In the event that a Participant cannot provide suitable proof as required by Neuron to validate their entry, they will be deemed to forfeit the prize in whole and no substitute will be offered.
 
-2.7 All prize values are correct at the time of the contest period. Neuron shall not be 
- responsible for variations in the prize value. 
+2.7 All prize values are correct at the time of the contest period. Neuron shall not be
+responsible for variations in the prize value. 
 
 
 
@@ -87,7 +84,7 @@ T-shirts for each team member
 
 3.3 Neuron may provide Participants with data and resources for the purpose of the Hackathon. Participants will use data and resources only as defined by Neuron. Data and resources will be used solely for the purpose of the Hackathon and only for the duration of the Hackathon and shall not be used for any commercial or illegal purpose, or copied, modified, reproduced, distributed or displayed for any other purpose.
 
-3.4 Ownership of Intellectual Property Rights. To the extent that there are any conflicts between the following provisions contained in these Terms and Conditions, the following provisions shall prevail:
+3.4 Ownership of Intellectual Property Rights. To the extent that there are any conflicts between the following provisions contained in these Terms and Conditions, the following provisions shall prevail: 
 
 3.4.1 Participant hereby assigns and transfers to Neuron all right, title, and interest in any and all solutions submitted by the Participant pursuant to the Hackathon. All intellectual property rights to such solutions submitted by the Participant pursuant to the Hackathon shall vest in and be the absolute property of Neuron.
 
@@ -133,7 +130,7 @@ T-shirts for each team member
 
 This release and indemnification will survive indefinitely beyond the end date of the Hackathon.
 
-5.2 To the extent permitted by law, the Participant agrees to release and indemnify Neuron and its associated companies against all liability, cost, loss or expense arising out of acceptance of any prize(s) or participation in the Hackathon including (but not limited to) loss of income, loss of opportunity, personal injury and damage to property, whether direct or consequential, foreseeable, due to some negligent act or omission or otherwise. This release and indemnification will survive indefinitely beyond the end date of the Hackathon.
+5.2 To the extent permitted by law, the Participant agrees to release from and indemnify Neuron and its associated companies against all liability, cost, loss or expense arising out of acceptance of any prize(s) or participation in the Hackathon including (but not limited to) loss of income, loss of opportunity, personal injury and damage to property, whether direct or consequential, foreseeable, due to some negligent act or omission or otherwise. This release and indemnification will survive indefinitely beyond the end date of the Hackathon.
 
 5.3 Neuron shall not be liable for any miscommunication, technical failures or network unavailability during the duration of the Hackathon.
 

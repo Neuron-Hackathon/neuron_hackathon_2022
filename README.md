@@ -62,6 +62,14 @@ The objective of the service scheduling is to maximise the profit by rebalancing
 
 
 
+## Task Breakdown
+
+1. Predict demands for e-scooters during the test week using training trip data (see Input Data Format below).
+2. Plan how many shifts are needed & how many e-scooters need to be retrieved or deployed during each shift, using the demand prediction and training e-scooter data (see Input Data Format below).
+3. Plan the best driving route for each shift to make the shift hours as less as possible.
+
+
+
 ## Input Data Format
 
 There are two tables in the input data. The first table contains the sample records of the e-scooter trips taken by the riders between T-4 weeks and T  (T = '2022-07-01 00:00:00 UTC'), which represents the e-scooter demands and organic rebalances in different grids at different times. 
@@ -165,3 +173,4 @@ Three events can happen in a grid: rebalance, demand (user attempting to start a
   - For example,  the ground operator schedules to deploy 5 e-scooters in grid (7, 10), move to  grid (5, 6) and retrieve 3 e-scooters in grid (5, 6) in the hour of 2022-07-08 09:00:00.  e-scooters availability updates in the two grids will be effective at 2022-07-08 10:00:00.
 - The impact of ending a trip will be effective **before** any attempt to start a trip.
   - For example, a grid (7, 10) has 2 e-scooters at the beginning of 2022-07-08 10:02:00. During the minute of 2022-07-08 10:02:00,  3 trips ended here and 4 users tried to start trips from here. Since we assume the trip ends happen first, all 4 demands will be considered “satisfied”.
+
