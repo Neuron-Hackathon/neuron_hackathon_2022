@@ -1,8 +1,6 @@
 # Problem Motivation
 
-Shared micro-mobility operators provide services to the public by deploying scooters in a permitted area (service area). Users can unlock a scooter via mobile app, ride it and park it anywhere within the permitted area. Without intervention, scooters tend to move from high demand areas to low demand areas, which will be less accessible for the users. As an operator, we attempt to design a data-driven approach to optimize the supply of e-scooter in the service area, by moving scooters from low-demand zones to high-demand zones.
-
-Pleaes note that the problem setting is unnecessary identical to the actual operation scheme. The operation process is simplified, so the Hackathon participants can easily understand the problem and come up with a solution to the problem.
+Shared micro-mobility operators provide services to the public by deploying e-scooters in a permitted area (service area). Users can unlock an e-scooter via mobile app, ride it and park it anywhere within the permitted area. Without intervention, e-scooters tend to move from high demand areas to low demand areas, which will reduce availability for the users. By moving e-scooters from low-demand areas back to high-demand areas, we can improve the scooter availability and increase the revenue. However the operation of moving e-scooters incurs costs. The goal of this competition is to design a data-driven approach to optimise the operating profit.
 
 
 
